@@ -1,7 +1,7 @@
 # STAND-RebelMenu
 His Rebel Menu JTAG THEME for STAND 🔥 Powered by : разогнанный = OverclockedMA / @разогнанный#9036 ✅
 
-![logo](https://user-images.githubusercontent.com/130534944/231894209-d688803e-99ee-44b2-9cba-0f6fffdd1454.png)
+![logo](https://user-images.githubusercontent.com/130534944/231894672-fec3d40f-a802-49ed-b664-589f19bd99e7.png)
 
 💎You too are nostalgic for the era of GTA 360 mods so I offer you this theme which aims to best resemble the original menu 
 (Rebel Menu) on xbox 360 JTAG.🔥🧨
